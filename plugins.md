@@ -9,3 +9,4 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 |---------------|---------------|-----------------|
 | EasyZoom | akira0245 | Easy zoom distance unlock and fov control. /ezoom to open config panel |
 | FakeName | matrix | Change your character name. |
+| WindowSizeUnlock | akira0245 | 解锁游戏窗口最小尺寸限制。<br>Unlocks minimum game window size restriction. |

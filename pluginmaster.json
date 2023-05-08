@@ -40,5 +40,28 @@
         "DownloadCount": 0,
         "CategoryTags": [],
         "LastUpdated": "1683557008"
+    },
+    {
+        "Author": "akira0245",
+        "Name": "WindowSizeUnlock",
+        "Description": "\u89e3\u9501\u6e38\u620f\u7a97\u53e3\u6700\u5c0f\u5c3a\u5bf8\u9650\u5236\u3002\nUnlocks minimum game window size restriction.",
+        "InternalName": "WindowSizeUnlock",
+        "AssemblyVersion": "1.1.0.1",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "akira",
+            "restrict",
+            "limit"
+        ],
+        "DalamudApiLevel": 7,
+        "Punchline": "Unlocks game window size restriction.",
+        "DownloadLinkInstall": "https://github.com/msew11/DalamudPlugins/raw/main/plugins/WindowSizeUnlock/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/msew11/DalamudPlugins/raw/main/plugins/WindowSizeUnlock/latest.zip",
+        "DownloadLinkTesting": "https://github.com/msew11/DalamudPlugins/raw/main/plugins/WindowSizeUnlock/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "CategoryTags": [],
+        "LastUpdated": "1683561128"
     }
 ]
