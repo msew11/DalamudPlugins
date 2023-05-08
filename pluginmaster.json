@@ -1,0 +1,44 @@
+[
+    {
+        "Author": "akira0245",
+        "Name": "EasyZoom",
+        "Description": "Easy zoom distance unlock and fov control. /ezoom to open config panel",
+        "InternalName": "EasyZoom",
+        "AssemblyVersion": "2.1.0.0",
+        "RepoUrl": "https://github.com/akira0245/EasyZoom",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "zoom",
+            "akira"
+        ],
+        "DalamudApiLevel": 7,
+        "Punchline": "Easy zoom distance unlock and fov control. /ezoom to open config panel",
+        "DownloadLinkInstall": "https://github.com/msew11/EasyZoom/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/msew11/EasyZoom/releases/latest/download/latest.zip",
+        "DownloadLinkTesting": "https://github.com/msew11/EasyZoom/releases/latest/download/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "CategoryTags": [],
+        "LastUpdated": "1683523911"
+    },
+    {
+        "Author": "matrix",
+        "Name": "FakeName",
+        "Description": "Change your character name.",
+        "InternalName": "FakeName",
+        "AssemblyVersion": "1.6.3.1",
+        "RepoUrl": "https://github.com/ms-enternalwind/FakeName",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 7,
+        "Punchline": "Change your character name.",
+        "DownloadLinkInstall": "https://github.com/msew11/FakeName/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/msew11/FakeName/releases/latest/download/latest.zip",
+        "DownloadLinkTesting": "https://github.com/msew11/FakeName/releases/latest/download/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "CategoryTags": [],
+        "LastUpdated": "1683523887"
+    }
+]

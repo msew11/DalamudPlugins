@@ -1,0 +1,12 @@
+{
+  "Author": "matrix",
+  "Name": "FakeName",
+  "InternalName": "FakeName",
+  "AssemblyVersion": "1.6.3.1",
+  "Description": "Change your character name.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/ms-enternalwind/FakeName",
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+  "Punchline": "Change your character name."
+}
