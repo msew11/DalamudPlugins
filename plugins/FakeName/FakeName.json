@@ -5,7 +5,7 @@
   "AssemblyVersion": "1.6.3.1",
   "Description": "Change your character name.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/ms-enternalwind/FakeName",
+  "RepoUrl": "https://github.com/msew11/FakeName",
   "DalamudApiLevel": 7,
   "LoadPriority": 0,
   "Punchline": "Change your character name."

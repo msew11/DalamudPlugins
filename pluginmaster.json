@@ -20,7 +20,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 0,
         "CategoryTags": [],
-        "LastUpdated": "1683523911"
+        "LastUpdated": "1683556231"
     },
     {
         "Author": "matrix",
@@ -28,7 +28,7 @@
         "Description": "Change your character name.",
         "InternalName": "FakeName",
         "AssemblyVersion": "1.6.3.1",
-        "RepoUrl": "https://github.com/ms-enternalwind/FakeName",
+        "RepoUrl": "https://github.com/msew11/FakeName",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
         "Punchline": "Change your character name.",
@@ -39,6 +39,6 @@
         "IsTestingExclusive": false,
         "DownloadCount": 0,
         "CategoryTags": [],
-        "LastUpdated": "1683523887"
+        "LastUpdated": "1683557008"
     }
 ]
