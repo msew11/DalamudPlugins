@@ -18,7 +18,8 @@ def get_md5(text: str):
     md5.update(text.encode())
     return md5.hexdigest()
 
-DOWNLOAD_URL = 'https://github.com/msew11/{plugin_name}/releases/latest/download/latest.zip'
+# https://github.com/msew11/DalamudPlugins/raw/main/plugins/EasyZoom/latest.zip
+DOWNLOAD_URL = 'https://github.com/msew11/DalamudPlugins/raw/main/plugins/{plugin_name}/latest.zip'
 IMAGE_URL = 'https://dalamudplugins-1253720819.cos.ap-nanjing.myqcloud.com/cn-api5/plugins/{plugin_name}/images/{image_file}'
 
 DEFAULTS = {
