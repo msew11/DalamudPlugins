@@ -1,12 +1,14 @@
 {
-  "Author": "matrix",
-  "Name": "FakeName",
+  "Author": "ArchiTed, matrix",
+  "Name": "Fake Name",
   "InternalName": "FakeName",
-  "AssemblyVersion": "1.6.3.1",
-  "Description": "Change your character name.",
+  "AssemblyVersion": "1.6.3.2",
+  "Description": "Show a fake name on your game ui.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/msew11/FakeName",
-  "DalamudApiLevel": 7,
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
   "LoadPriority": 0,
-  "Punchline": "Change your character name."
+  "Punchline": "Show a fake name on your game ui.",
+  "AcceptsFeedback": true
 }
