@@ -5,6 +5,7 @@
         "Description": "Show a fake name on your game ui.",
         "InternalName": "FakeName",
         "AssemblyVersion": "1.6.3.2",
+        "RepoUrl": "https://github.com/msew11/FakeName",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
         "Punchline": "Show a fake name on your game ui.",
@@ -16,6 +17,6 @@
         "IsTestingExclusive": false,
         "DownloadCount": 0,
         "CategoryTags": [],
-        "LastUpdated": "1683657890"
+        "LastUpdated": "1683658557"
     }
 ]
