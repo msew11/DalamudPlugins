@@ -8,6 +8,7 @@
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
         "Punchline": "Show a fake name on your game ui.",
+        "IconUrl": "https://raw.githubusercontent.com/msew11/FakeName/master/icon.png",
         "DownloadLinkInstall": "https://github.com/msew11/DalamudPlugins/raw/main/plugins/FakeName/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msew11/DalamudPlugins/raw/main/plugins/FakeName/latest.zip",
         "DownloadLinkTesting": "https://github.com/msew11/DalamudPlugins/raw/main/plugins/FakeName/latest.zip",
@@ -15,6 +16,6 @@
         "IsTestingExclusive": false,
         "DownloadCount": 0,
         "CategoryTags": [],
-        "LastUpdated": "1683652753"
+        "LastUpdated": "1683657890"
     }
 ]

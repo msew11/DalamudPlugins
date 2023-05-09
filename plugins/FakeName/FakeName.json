@@ -9,6 +9,7 @@
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/msew11/FakeName/master/icon.png",
   "Punchline": "Show a fake name on your game ui.",
   "AcceptsFeedback": true
 }
