@@ -1,6 +1,4 @@
 {
     "FakeName": "Show a fake name on your game ui.",
-    "FakeName-Punchline": "Show a fake name on your game ui.",
-    "WindowSizeUnlock": "\u89e3\u9501\u6e38\u620f\u7a97\u53e3\u6700\u5c0f\u5c3a\u5bf8\u9650\u5236\u3002\nUnlocks minimum game window size restriction.",
-    "WindowSizeUnlock-Punchline": "Unlocks game window size restriction."
+    "FakeName-Punchline": "Show a fake name on your game ui."
 }

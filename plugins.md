@@ -8,4 +8,3 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Author | Name | Description |
 |---------------|---------------|-----------------|
 | Fake Name | ArchiTed, matrix | Show a fake name on your game ui. |
-| WindowSizeUnlock | akira0245 | 解锁游戏窗口最小尺寸限制。<br>Unlocks minimum game window size restriction. |
