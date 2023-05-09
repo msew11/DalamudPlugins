@@ -1,37 +1,13 @@
 [
     {
-        "Author": "akira0245",
-        "Name": "EasyZoom",
-        "Description": "Easy zoom distance unlock and fov control. /ezoom to open config panel",
-        "InternalName": "EasyZoom",
-        "AssemblyVersion": "2.1.0.0",
-        "RepoUrl": "https://github.com/akira0245/EasyZoom",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "zoom",
-            "akira"
-        ],
-        "DalamudApiLevel": 7,
-        "Punchline": "Easy zoom distance unlock and fov control. /ezoom to open config panel",
-        "DownloadLinkInstall": "https://github.com/msew11/DalamudPlugins/raw/main/plugins/EasyZoom/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/msew11/DalamudPlugins/raw/main/plugins/EasyZoom/latest.zip",
-        "DownloadLinkTesting": "https://github.com/msew11/DalamudPlugins/raw/main/plugins/EasyZoom/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadCount": 0,
-        "CategoryTags": [],
-        "LastUpdated": "1683558369"
-    },
-    {
-        "Author": "matrix",
-        "Name": "FakeName",
-        "Description": "Change your character name.",
+        "Author": "ArchiTed, matrix",
+        "Name": "Fake Name",
+        "Description": "Show a fake name on your game ui.",
         "InternalName": "FakeName",
-        "AssemblyVersion": "1.6.3.1",
-        "RepoUrl": "https://github.com/msew11/FakeName",
+        "AssemblyVersion": "1.6.3.2",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 7,
-        "Punchline": "Change your character name.",
+        "DalamudApiLevel": 8,
+        "Punchline": "Show a fake name on your game ui.",
         "DownloadLinkInstall": "https://github.com/msew11/DalamudPlugins/raw/main/plugins/FakeName/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msew11/DalamudPlugins/raw/main/plugins/FakeName/latest.zip",
         "DownloadLinkTesting": "https://github.com/msew11/DalamudPlugins/raw/main/plugins/FakeName/latest.zip",
@@ -39,7 +15,7 @@
         "IsTestingExclusive": false,
         "DownloadCount": 0,
         "CategoryTags": [],
-        "LastUpdated": "1683557008"
+        "LastUpdated": "1683652753"
     },
     {
         "Author": "akira0245",
