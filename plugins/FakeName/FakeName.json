@@ -2,7 +2,7 @@
   "Author": "ArchiTed, matrix",
   "Name": "Fake Name",
   "InternalName": "FakeName",
-  "AssemblyVersion": "1.6.3.2",
+  "AssemblyVersion": "1.6.3.3",
   "Description": "Show a fake name on your game ui.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/msew11/FakeName",
