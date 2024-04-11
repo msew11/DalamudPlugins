@@ -9,7 +9,7 @@
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
         "Punchline": "Show a fake name on your game ui.",
-        "IconUrl": "https://raw.githubusercontent.com/msew11/FakeName/master/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/msew11/FakeName/main/icon.png",
         "DownloadLinkInstall": "https://github.com/msew11/FakeName/releases/download/v1.6.5.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msew11/FakeName/releases/download/v1.6.5.1/latest.zip",
         "DownloadLinkTesting": "https://github.com/msew11/FakeName/releases/download/v1.6.5.1/latest.zip",
