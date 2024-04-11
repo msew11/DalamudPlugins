@@ -1,14 +1,22 @@
 {
-  "Author": "ArchiTed, msew11",
+  "Author": "msew11",
   "Name": "FakeName",
   "InternalName": "FakeName",
-  "AssemblyVersion": "1.6.4.1",
+  "AssemblyVersion": "1.6.5.1",
   "Description": "Show a fake name on your game ui.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/msew11/FakeName",
-  "DalamudApiLevel": 8,
+  "Tags": [
+    "name",
+    "ui"
+  ],
+  "CategoryTags": [
+    "ui"
+  ],
+  "DalamudApiLevel": 9,
   "LoadRequiredState": 0,
   "LoadSync": false,
+  "CanUnloadAsync": false,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/msew11/FakeName/master/icon.png",
   "Punchline": "Show a fake name on your game ui.",
