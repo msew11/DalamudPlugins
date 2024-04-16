@@ -2,22 +2,25 @@
     {
         "Author": "msew11",
         "Name": "FakeName",
-        "Description": "支持多角色：名牌，宠物名牌，选角界面，小队列表，目标信息，焦点，倒计时通知。\n支持当前角色：角色信息，好友，部队，通讯贝\n不支持：聊天面板",
-        "InternalName": "FakeName",
-        "AssemblyVersion": "1.6.5.6",
-        "RepoUrl": "https://github.com/msew11/FakeName",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 9,
         "Punchline": "修改游戏界面中出现的角色名。",
-        "IconUrl": "https://raw.githubusercontent.com/msew11/FakeName/main/icon.png",
+        "Description": "支持多角色：名牌，宠物名牌，选角界面，小队列表，目标信息，焦点，倒计时通知。\n支持当前角色：角色信息，好友，部队，通讯贝\n不支持：聊天面板",
+        "Tags": [
+            "name",
+            "ui"
+        ],
+        "InternalName": "FakeName",
+        "RepoUrl": "https://github.com/msew11/FakeName",
+        "DownloadCount": 759,
+        "LastUpdated": 1713263280000,
+        "CategoryTags": ["ui"],
         "DownloadLinkInstall": "https://github.com/msew11/FakeName/releases/download/v1.6.5.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/msew11/FakeName/releases/download/v1.6.5.6/latest.zip",
-        "DownloadLinkTesting": "https://github.com/msew11/FakeName/releases/download/v1.6.5.6/latest.zip",
+        "AssemblyVersion": "1.6.5.6",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 9,
         "Changelog": "增加匿名模式",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadCount": 0,
-        "CategoryTags": [],
-        "LastUpdated": "0"
+        "TestingAssemblyVersion": "1.6.5.6",
+        "DownloadLinkTesting": "https://github.com/msew11/FakeName/releases/download/v1.6.5.6/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/msew11/FakeName/main/icon.png"
     }
 ]
