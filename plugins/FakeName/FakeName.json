@@ -2,7 +2,7 @@
   "Author": "msew11",
   "Name": "FakeName",
   "InternalName": "FakeName",
-  "AssemblyVersion": "1.6.5.5",
+  "AssemblyVersion": "1.6.5.6",
   "Description": "Show a fake name on your game ui.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/msew11/FakeName",
