@@ -21,5 +21,29 @@
         "TestingAssemblyVersion": "1.6.5.6",
         "DownloadLinkTesting": "https://github.com/msew11/FakeName/releases/download/v1.6.5.6/latest.zip",
         "IconUrl": "https://raw.githubusercontent.com/msew11/FakeName/main/icon.png"
+    },
+    {
+        "Author": "Usagi",
+        "Name": "IINACT",
+        "InternalName": "IINACT",
+        "AssemblyVersion": "2.5.0.3",
+        "TestingAssemblyVersion": "2.5.0.3",
+        "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/marzent/IINACT",
+        "Tags": [
+            "parsing",
+            "plugin",
+            "ACT"
+        ],
+        "DalamudApiLevel": 9,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/marzent/IINACT/master/images/icon.png",
+        "Punchline": "A parsing plugin.",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadLinkInstall": "https://github.com/msew11/IINACT/releases/download/v2.5.0.3/IINACT.zip",
+        "DownloadLinkTesting": "https://github.com/msew11/IINACT/releases/download/v2.5.0.3/IINACT.zip",
+        "DownloadLinkUpdate": "https://github.com/msew11/IINACT/releases/download/v2.5.0.3/IINACT.zip"
     }
 ]
