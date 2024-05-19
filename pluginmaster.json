@@ -24,13 +24,13 @@
     },
     {
         "Author": "Usagi",
-        "Name": "IINACT",
-        "InternalName": "IINACT",
+        "Name": "IINACT CN",
+        "InternalName": "IINACT CN",
         "AssemblyVersion": "2.5.0.3",
         "TestingAssemblyVersion": "2.5.0.3",
         "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
         "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/marzent/IINACT",
+        "RepoUrl": "https://github.com/msew11/IINACT",
         "Tags": [
             "parsing",
             "plugin",
@@ -45,5 +45,25 @@
         "DownloadLinkInstall": "https://github.com/msew11/IINACT/releases/download/v2.5.0.3/IINACT.zip",
         "DownloadLinkTesting": "https://github.com/msew11/IINACT/releases/download/v2.5.0.3/IINACT.zip",
         "DownloadLinkUpdate": "https://github.com/msew11/IINACT/releases/download/v2.5.0.3/IINACT.zip"
+    },
+    {
+        "Author": "Lichie",
+        "Name": "LMeter",
+        "Description": "Plugin to display ACT combat log data.",
+        "InternalName": "LMeter",
+        "AssemblyVersion": "0.3.0.1",
+        "TestingAssemblyVersion": "0.3.0.1",
+        "RepoUrl": "https://github.com/lichie567/LMeter",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 9,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "LastUpdate": 0,
+        "LoadPriority": 69420,
+        "DownloadLinkInstall": "https://github.com/lichie567/LMeter/releases/download/0.3.0.1/LMeter.zip",
+        "DownloadLinkTesting": "https://github.com/lichie567/LMeter/releases/download/0.3.0.1/LMeter.zip",
+        "DownloadLinkUpdate": "https://github.com/lichie567/LMeter/releases/download/0.3.0.1/LMeter.zip",
+        "IconUrl": "https://raw.githubusercontent.com/lichie567/LMeter/main/LMeter/Media/Images/icon.png"
     }
 ]
