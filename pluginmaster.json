@@ -42,9 +42,9 @@
         "Punchline": "A parsing plugin.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/msew11/IINACT/releases/download/v2.5.0.655/IINACT.zip",
-        "DownloadLinkTesting": "https://github.com/msew11/IINACT/releases/download/v2.5.0.655/IINACT.zip",
-        "DownloadLinkUpdate": "https://github.com/msew11/IINACT/releases/download/v2.5.0.655/IINACT.zip"
+        "DownloadLinkInstall": "https://github.com/msew11/IINACT/releases/download/v2.5.0.655/latest.zip",
+        "DownloadLinkTesting": "https://github.com/msew11/IINACT/releases/download/v2.5.0.655/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/msew11/IINACT/releases/download/v2.5.0.655/latest.zip"
     },
     {
         "Author": "Lichie",
