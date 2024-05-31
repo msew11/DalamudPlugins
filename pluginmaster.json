@@ -24,13 +24,13 @@
     },
     {
         "Author": "Usagi",
-        "Name": "IINACT",
-        "InternalName": "IINACT",
+        "Name": "IINACT_CN",
+        "InternalName": "IINACT_CN",
         "AssemblyVersion": "2.5.0.655",
         "TestingAssemblyVersion": "2.5.0.655",
         "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
         "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/msew11/IINACT",
+        "RepoUrl": "https://github.com/msew11/IINACT_CN",
         "Tags": [
             "parsing",
             "plugin",
@@ -42,9 +42,9 @@
         "Punchline": "A parsing plugin.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/msew11/IINACT/releases/download/v2.5.0.655/latest.zip",
-        "DownloadLinkTesting": "https://github.com/msew11/IINACT/releases/download/v2.5.0.655/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/msew11/IINACT/releases/download/v2.5.0.655/latest.zip"
+        "DownloadLinkInstall": "https://github.com/msew11/IINACT_CN/releases/download/v2.5.0.655/latest.zip",
+        "DownloadLinkTesting": "https://github.com/msew11/IINACT_CN/releases/download/v2.5.0.655/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/msew11/IINACT_CN/releases/download/v2.5.0.655/latest.zip"
     },
     {
         "Author": "Lichie",
