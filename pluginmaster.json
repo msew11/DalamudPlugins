@@ -17,9 +17,9 @@
         "AssemblyVersion": "1.6.5.9",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
-        "Changelog": "1.支持添加指定角色\n2.修复无法修改合并后的目标情报的BUG",
-        "TestingAssemblyVersion": "1.6.5.9",
-        "DownloadLinkTesting": "https://github.com/msew11/FakeName/releases/download/v1.6.5.9/latest.zip",
+        "Changelog": "1.优化ui\n2.增加图标替换功能\n3.增加角色配置的分组",
+        "TestingAssemblyVersion": "1.6.5.10",
+        "DownloadLinkTesting": "https://github.com/msew11/FakeName/releases/download/v1.6.5.10/latest.zip",
         "IconUrl": "https://raw.githubusercontent.com/msew11/FakeName/main/icon.png"
     },
     {
