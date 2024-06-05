@@ -23,27 +23,6 @@
     "IconUrl": "https://raw.githubusercontent.com/msew11/FakeName/main/icon.png"
   },
   {
-    "ApplicableVersion": "any",
-    "AssemblyVersion": "1.9.0.1",
-    "Author": "darkarchon",
-    "DalamudApiLevel": 9,
-    "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
-    "DownloadLinkInstall": "https://github.com/msew11/Mare-client/releases/download/v1.9.0.1fn/latest.zip",
-    "DownloadLinkTesting": "https://github.com/msew11/Mare-client/releases/download/v1.9.0.1fn/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/msew11/Mare-client/releases/download/v1.9.0.1fn/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/Penumbra-Sync/repo/main/MareSynchronos/images/icon.png",
-    "InternalName": "MareSynchronos",
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "LoadPriority": 0,
-    "Name": "Mare Synchronos(FN)",
-    "Punchline": "Let others see you as you see yourself.",
-    "RepoUrl": "https://github.com/msew11/Mare-client",
-    "Tags": [
-      "customization"
-    ]
-  },
-  {
     "Author": "Usagi",
     "Name": "IINACT_CN",
     "InternalName": "IINACT",
