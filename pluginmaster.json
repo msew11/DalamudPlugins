@@ -18,8 +18,8 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
     "Changelog": "1.优化ui\n2.增加图标替换功能\n3.增加角色配置的分组",
-    "TestingAssemblyVersion": "1.6.5.11",
-    "DownloadLinkTesting": "https://github.com/msew11/FakeName/releases/download/v1.6.5.11/latest.zip",
+    "TestingAssemblyVersion": "1.6.5.12",
+    "DownloadLinkTesting": "https://github.com/msew11/FakeName/releases/download/v1.6.5.12/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/msew11/FakeName/main/icon.png"
   },
   {

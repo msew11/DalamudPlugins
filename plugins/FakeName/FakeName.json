@@ -2,7 +2,7 @@
   "Author": "msew11",
   "Name": "FakeName",
   "InternalName": "FakeName",
-  "AssemblyVersion": "1.6.5.11",
+  "AssemblyVersion": "1.6.5.12",
   "Description": "支持多角色：名牌，宠物名牌，选角界面，小队列表，目标信息，焦点，倒计时通知。\n支持当前角色：角色信息，好友，部队，通讯贝\n不支持：聊天面板",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/msew11/FakeName",
